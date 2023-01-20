@@ -1,6 +1,6 @@
-name=恒星播放器搜索插件合集
+name=恒星播放器插件合集
 description=示例
-version=0.1
+version=0.2
 url=https://github.com/simplecelery/stellar-search
 type=collection
-urls=https://github.com/simplecelery/stellar-rmys,https://github.com/ninebird1/stellar-66ys,https://github.com/ninebird1/stellar-cilixiong,https://github.com/ninebird1/stellar_dytt
+urls=https://github.com/stellarplayer/stellar-WebDAVClient,https://github.com/stellarplayer/stellar-web-ctrl
